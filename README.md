@@ -148,6 +148,12 @@ Design a modular smart home prototype (e.g., smart door sensor + mobile app + cl
 - TLS Certificates, Secure Flash
 - GitHub CI/CD (e.g., GitHub Actions)
 
+### 🚀 Career Development
+As an embedded systems engineer, it's essential to stay up-to-date with industry trends, best practices, and new technologies to advance your career. Here are some resources to help you achieve your career goals:
+
+🔗 [EmbeddedJobs](https://embedded.jobs) - A job board focused exclusively on Embedded Systems job market.
+
+🔗 [Interrupt Blog by Memfault](https://interrupt.memfault.com/blog/) — Stay sharp with in-depth articles, tutorials, and best practices written by industry experts in embedded systems.
 ---
 
 ## 📦 Recommended Hardware Starter Kits
